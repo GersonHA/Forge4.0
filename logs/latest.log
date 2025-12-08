@@ -1,0 +1,165 @@
+[08dic.2025 00:00:20.881] [Server thread/INFO] [Chunk Activity Tracker/]: Saving data for 32 chunks for dimension 'overworld' took 1 milliseconds
+[08dic.2025 00:01:02.914] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gersbot was slain by Cave Spider
+[08dic.2025 00:02:30.459] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zaru2 was slain by Cave Spider
+[08dic.2025 00:03:23.373] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gersbot has made the advancement [Acquire Hardware]
+[08dic.2025 00:04:54.408] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zaru2 has made the advancement [Acquire Hardware]
+[08dic.2025 00:05:01.365] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zaru2 has made the advancement [Isn't It Iron Pick]
+[08dic.2025 00:05:20.872] [Server thread/INFO] [Chunk Activity Tracker/]: Saving data for 34 chunks for dimension 'overworld' took 1 milliseconds
+[08dic.2025 00:05:20.880] [Server thread/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: Listing events...
+[08dic.2025 00:05:20.880] [Server thread/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: Server Player Clone: 5
+[08dic.2025 00:05:20.880] [Server thread/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: Server Player Logout: 1
+[08dic.2025 00:05:20.880] [Server thread/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: Listing memory leaks so far...
+[08dic.2025 00:05:20.880] [Server thread/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: Waiting to stabilize [1/10]
+[08dic.2025 00:05:20.880] [Server thread/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: Memory Leaks detected: (/atl force_refresh to update)
+[08dic.2025 00:05:20.880] [Server thread/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: | Player:
+[08dic.2025 00:05:20.880] [Server thread/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: |- ServerPlayer (minecraft): 2
+[08dic.2025 00:05:26.712] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gersbot has made the advancement [Hot Stuff]
+[08dic.2025 00:05:32.763] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gersbot hit the ground too hard
+[08dic.2025 00:06:22.916] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zaru2 has made the advancement [Diamonds!]
+[08dic.2025 00:07:46.515] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gersbot was slain by Cave Spider
+[08dic.2025 00:10:20.893] [Server thread/INFO] [Chunk Activity Tracker/]: Saving data for 35 chunks for dimension 'overworld' took 0 milliseconds
+[08dic.2025 00:15:20.889] [Server thread/INFO] [Chunk Activity Tracker/]: Saving data for 38 chunks for dimension 'overworld' took 1 milliseconds
+[08dic.2025 00:15:20.916] [Server thread/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: Listing events...
+[08dic.2025 00:15:20.916] [Server thread/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: Server Player Clone: 7
+[08dic.2025 00:15:20.916] [Server thread/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: Server Player Logout: 1
+[08dic.2025 00:15:20.916] [Server thread/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: Listing memory leaks so far...
+[08dic.2025 00:15:20.917] [Server thread/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: Waiting to stabilize [2/10]
+[08dic.2025 00:15:20.917] [Server thread/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: No memory leak detected!
+[08dic.2025 00:19:59.179] [Netty Server IO #11/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [watut:main,supplementaries:channel,voidtotem:totem_effect_packet,structure_gel:main,blue_skies:main,crawlondemand:main,veinmining:main,l2library:main,azurelib:main,aether_redux:main,cataclysm:main_channel,alexsmobs:main_channel,mowziesmobs:net,bountiful:update_bounty_criteria,galosphere:network,whatareyouvotingfor:messages,sereneseasons:main,kambrik:test_msg,elytraslot:main,blueprint:net,geckolib:main,moonlight:channel,tradingpost:1,kiwi:main,aether:main,charmofundying:main,bountiful:play_sound_on_client,friendsandfoes:networking,lost_aether_content:main,gallery:play,polymorph:main,deeper_and_darker_to_cataclysm:deeper_and_darker_to_cataclysm,dragonmounts:network,quark:main,yungscavebiomes:messages,storagenetwork:main_channel,netherite_tweaks_luna:netherite_tweaks_luna,aether_protect_your_moa:main,easyanvils:1,revampedwolf:net,waystones:network,wakes:main,palegarden:palegarden,guardvillagers:main,bountiful:clipboard_copy,chipped:main,forgeconfigscreens:play,nitrogen_internals:main,framework:play,azurelib:network_channel,everycomp:channel,farmers_structures:farmers_structures,lionfishapi:main_channel,forge:tier_sorting,leaderboards:main,sawmill:channel,caelus:main,deep_aether:main,stalwart_dungeons:stalwart_dungeons,comforts:main,flib:main_channel,carryon:carryonpackets,citadel:main_channel,easymagic:1,deep_aether:deep_aether,amendments:channel,curios:main,mediumcore:main_channel,framework:handshake,bountiful:select_bounty,glitchcore:config_sync,diagonalwallfix:diagonalwallfix,patchouli:main,golem_spawn_fix:golem_spawn_fix,zeta:main,delightful:main,elevatorid:main_channel,backpacked:play,twilightforest:channel] rejected vanilla connections
+[08dic.2025 00:20:11.861] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gersbot tried to swim in lava
+[08dic.2025 00:20:20.889] [Server thread/INFO] [Chunk Activity Tracker/]: Saving data for 47 chunks for dimension 'overworld' took 0 milliseconds
+[08dic.2025 00:20:36.070] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zaru2 has made the advancement [Suit Up]
+[08dic.2025 00:25:14.067] [Server thread/WARN] [Puzzles Lib/]: Requesting invalid capability fastitemframes:item_frame_color for type fuzs/fastitemframes/capability/ItemFrameColorCapability from holder ItemFrame['Item Frame'/3870, l='ServerLevel[world]', x=222.50, y=32.03, z=22.50, removed=DISCARDED]
+[08dic.2025 00:25:20.907] [Server thread/INFO] [Chunk Activity Tracker/]: Saving data for 80 chunks for dimension 'overworld' took 1 milliseconds
+[08dic.2025 00:25:20.963] [Server thread/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: Listing events...
+[08dic.2025 00:25:20.963] [Server thread/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: Server Player Clone: 8
+[08dic.2025 00:25:20.963] [Server thread/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: Server Player Logout: 1
+[08dic.2025 00:25:20.964] [Server thread/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: Listing memory leaks so far...
+[08dic.2025 00:25:20.964] [Server thread/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: Waiting to stabilize [0/10]
+[08dic.2025 00:25:20.964] [Server thread/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: Memory Leaks detected: (/atl force_refresh to update)
+[08dic.2025 00:25:20.964] [Server thread/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: | Player:
+[08dic.2025 00:25:20.964] [Server thread/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: |- ServerPlayer (minecraft): 1
+[08dic.2025 00:26:29.466] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gersbot was slain by Zombie
+[08dic.2025 00:30:20.898] [Server thread/INFO] [Chunk Activity Tracker/]: Saving data for 90 chunks for dimension 'overworld' took 1 milliseconds
+[08dic.2025 00:31:59.612] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gersbot was slain by zaru2
+[08dic.2025 00:32:30.651] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gersbot has made the advancement [Suit Up]
+[08dic.2025 00:32:50.564] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zaru2 has made the advancement [Not Today, Thank You]
+[08dic.2025 00:35:20.871] [Server thread/INFO] [Chunk Activity Tracker/]: Saving data for 93 chunks for dimension 'overworld' took 1 milliseconds
+[08dic.2025 00:35:21.011] [Server thread/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: Listing events...
+[08dic.2025 00:35:21.011] [Server thread/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: Server Player Clone: 10
+[08dic.2025 00:35:21.011] [Server thread/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: Server Player Logout: 1
+[08dic.2025 00:35:21.011] [Server thread/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: Listing memory leaks so far...
+[08dic.2025 00:35:21.011] [Server thread/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: Waiting to stabilize [4/10]
+[08dic.2025 00:35:21.011] [Server thread/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: Memory Leaks detected: (/atl force_refresh to update)
+[08dic.2025 00:35:21.011] [Server thread/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: | Player:
+[08dic.2025 00:35:21.011] [Server thread/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: |- ServerPlayer (minecraft): 1
+[08dic.2025 00:40:20.883] [Server thread/INFO] [Chunk Activity Tracker/]: Saving data for 107 chunks for dimension 'overworld' took 2 milliseconds
+[08dic.2025 00:45:20.880] [Server thread/INFO] [Chunk Activity Tracker/]: Saving data for 110 chunks for dimension 'overworld' took 1 milliseconds
+[08dic.2025 00:45:21.062] [Server thread/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: Listing events...
+[08dic.2025 00:45:21.063] [Server thread/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: Server Player Clone: 10
+[08dic.2025 00:45:21.063] [Server thread/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: Server Player Logout: 1
+[08dic.2025 00:45:21.063] [Server thread/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: Listing memory leaks so far...
+[08dic.2025 00:45:21.066] [Server thread/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: B: 2106MB / C: 2128MB / Diff: +22MB
+[08dic.2025 00:45:21.066] [Server thread/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: Memory Leaks detected: (/atl force_refresh to update)
+[08dic.2025 00:45:21.066] [Server thread/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: | Player:
+[08dic.2025 00:45:21.066] [Server thread/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: |- ServerPlayer (minecraft): 1
+[08dic.2025 00:48:39.972] [Server thread/ERROR] [net.minecraft.network.protocol.PacketUtils/]: Failed to handle packet net.minecraft.network.protocol.game.ServerboundUseItemOnPacket@3e4dc86f, suppressing error
+java.lang.NullPointerException: Cannot invoke "java.lang.Integer.intValue()" because the return value of "com.google.common.collect.ImmutableMap.get(Object)" is null
+	at net.minecraft.world.level.block.NoteBlock.fabrication$informNote(NoteBlock.java:1652) ~[server-1.20.1-20230612.114412-srg.jar%23722!/:?]
+	at net.minecraft.world.level.block.NoteBlock.handler$bka000$fabrication$onUseReturn(NoteBlock.java:1636) ~[server-1.20.1-20230612.114412-srg.jar%23722!/:?]
+	at net.minecraft.world.level.block.NoteBlock.m_6227_(NoteBlock.java:98) ~[server-1.20.1-20230612.114412-srg.jar%23722!/:?]
+	at net.minecraft.world.level.block.state.BlockBehaviour$BlockStateBase.m_60664_(BlockBehaviour.java:778) ~[server-1.20.1-20230612.114412-srg.jar%23722!/:?]
+	at net.minecraft.server.level.ServerPlayerGameMode.m_7179_(ServerPlayerGameMode.java:351) ~[server-1.20.1-20230612.114412-srg.jar%23722!/:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.m_6371_(ServerGamePacketListenerImpl.java:1057) ~[server-1.20.1-20230612.114412-srg.jar%23722!/:?]
+	at net.minecraft.network.protocol.game.ServerboundUseItemOnPacket.m_5797_(ServerboundUseItemOnPacket.java:34) ~[server-1.20.1-20230612.114412-srg.jar%23722!/:?]
+	at net.minecraft.network.protocol.game.ServerboundUseItemOnPacket.m_5797_(ServerboundUseItemOnPacket.java:8) ~[server-1.20.1-20230612.114412-srg.jar%23722!/:?]
+	at net.minecraft.network.protocol.PacketUtils.m_263899_(PacketUtils.java:22) ~[server-1.20.1-20230612.114412-srg.jar%23722!/:?]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[server-1.20.1-20230612.114412-srg.jar%23722!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:156) ~[server-1.20.1-20230612.114412-srg.jar%23722!/:?]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23) ~[server-1.20.1-20230612.114412-srg.jar%23722!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:770) ~[server-1.20.1-20230612.114412-srg.jar%23722!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:161) ~[server-1.20.1-20230612.114412-srg.jar%23722!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:130) ~[server-1.20.1-20230612.114412-srg.jar%23722!/:?]
+	at net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:753) ~[server-1.20.1-20230612.114412-srg.jar%23722!/:?]
+	at net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:747) ~[server-1.20.1-20230612.114412-srg.jar%23722!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_18699_(BlockableEventLoop.java:115) ~[server-1.20.1-20230612.114412-srg.jar%23722!/:?]
+	at net.minecraft.server.MinecraftServer.m_130012_(MinecraftServer.java:732) ~[server-1.20.1-20230612.114412-srg.jar%23722!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:665) ~[server-1.20.1-20230612.114412-srg.jar%23722!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23722!/:?]
+	at java.lang.Thread.run(Thread.java:1474) ~[?:?]
+[08dic.2025 00:48:48.370] [Server thread/ERROR] [net.minecraft.network.protocol.PacketUtils/]: Failed to handle packet net.minecraft.network.protocol.game.ServerboundUseItemOnPacket@23ff5076, suppressing error
+java.lang.NullPointerException: Cannot invoke "java.lang.Integer.intValue()" because the return value of "com.google.common.collect.ImmutableMap.get(Object)" is null
+	at net.minecraft.world.level.block.NoteBlock.fabrication$informNote(NoteBlock.java:1652) ~[server-1.20.1-20230612.114412-srg.jar%23722!/:?]
+	at net.minecraft.world.level.block.NoteBlock.handler$bka000$fabrication$onUseReturn(NoteBlock.java:1636) ~[server-1.20.1-20230612.114412-srg.jar%23722!/:?]
+	at net.minecraft.world.level.block.NoteBlock.m_6227_(NoteBlock.java:98) ~[server-1.20.1-20230612.114412-srg.jar%23722!/:?]
+	at net.minecraft.world.level.block.state.BlockBehaviour$BlockStateBase.m_60664_(BlockBehaviour.java:778) ~[server-1.20.1-20230612.114412-srg.jar%23722!/:?]
+	at net.minecraft.server.level.ServerPlayerGameMode.m_7179_(ServerPlayerGameMode.java:351) ~[server-1.20.1-20230612.114412-srg.jar%23722!/:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.m_6371_(ServerGamePacketListenerImpl.java:1057) ~[server-1.20.1-20230612.114412-srg.jar%23722!/:?]
+	at net.minecraft.network.protocol.game.ServerboundUseItemOnPacket.m_5797_(ServerboundUseItemOnPacket.java:34) ~[server-1.20.1-20230612.114412-srg.jar%23722!/:?]
+	at net.minecraft.network.protocol.game.ServerboundUseItemOnPacket.m_5797_(ServerboundUseItemOnPacket.java:8) ~[server-1.20.1-20230612.114412-srg.jar%23722!/:?]
+	at net.minecraft.network.protocol.PacketUtils.m_263899_(PacketUtils.java:22) ~[server-1.20.1-20230612.114412-srg.jar%23722!/:?]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[server-1.20.1-20230612.114412-srg.jar%23722!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:156) ~[server-1.20.1-20230612.114412-srg.jar%23722!/:?]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23) ~[server-1.20.1-20230612.114412-srg.jar%23722!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:770) ~[server-1.20.1-20230612.114412-srg.jar%23722!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:161) ~[server-1.20.1-20230612.114412-srg.jar%23722!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:130) ~[server-1.20.1-20230612.114412-srg.jar%23722!/:?]
+	at net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:753) ~[server-1.20.1-20230612.114412-srg.jar%23722!/:?]
+	at net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:747) ~[server-1.20.1-20230612.114412-srg.jar%23722!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_18699_(BlockableEventLoop.java:115) ~[server-1.20.1-20230612.114412-srg.jar%23722!/:?]
+	at net.minecraft.server.MinecraftServer.m_130012_(MinecraftServer.java:732) ~[server-1.20.1-20230612.114412-srg.jar%23722!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:665) ~[server-1.20.1-20230612.114412-srg.jar%23722!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23722!/:?]
+	at java.lang.Thread.run(Thread.java:1474) ~[?:?]
+[08dic.2025 00:48:51.064] [Server thread/ERROR] [net.minecraft.network.protocol.PacketUtils/]: Failed to handle packet net.minecraft.network.protocol.game.ServerboundUseItemOnPacket@29d62d1c, suppressing error
+java.lang.NullPointerException: Cannot invoke "java.lang.Integer.intValue()" because the return value of "com.google.common.collect.ImmutableMap.get(Object)" is null
+	at net.minecraft.world.level.block.NoteBlock.fabrication$informNote(NoteBlock.java:1652) ~[server-1.20.1-20230612.114412-srg.jar%23722!/:?]
+	at net.minecraft.world.level.block.NoteBlock.handler$bka000$fabrication$onUseReturn(NoteBlock.java:1636) ~[server-1.20.1-20230612.114412-srg.jar%23722!/:?]
+	at net.minecraft.world.level.block.NoteBlock.m_6227_(NoteBlock.java:98) ~[server-1.20.1-20230612.114412-srg.jar%23722!/:?]
+	at net.minecraft.world.level.block.state.BlockBehaviour$BlockStateBase.m_60664_(BlockBehaviour.java:778) ~[server-1.20.1-20230612.114412-srg.jar%23722!/:?]
+	at net.minecraft.server.level.ServerPlayerGameMode.m_7179_(ServerPlayerGameMode.java:351) ~[server-1.20.1-20230612.114412-srg.jar%23722!/:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.m_6371_(ServerGamePacketListenerImpl.java:1057) ~[server-1.20.1-20230612.114412-srg.jar%23722!/:?]
+	at net.minecraft.network.protocol.game.ServerboundUseItemOnPacket.m_5797_(ServerboundUseItemOnPacket.java:34) ~[server-1.20.1-20230612.114412-srg.jar%23722!/:?]
+	at net.minecraft.network.protocol.game.ServerboundUseItemOnPacket.m_5797_(ServerboundUseItemOnPacket.java:8) ~[server-1.20.1-20230612.114412-srg.jar%23722!/:?]
+	at net.minecraft.network.protocol.PacketUtils.m_263899_(PacketUtils.java:22) ~[server-1.20.1-20230612.114412-srg.jar%23722!/:?]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[server-1.20.1-20230612.114412-srg.jar%23722!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:156) ~[server-1.20.1-20230612.114412-srg.jar%23722!/:?]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23) ~[server-1.20.1-20230612.114412-srg.jar%23722!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:770) ~[server-1.20.1-20230612.114412-srg.jar%23722!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:161) ~[server-1.20.1-20230612.114412-srg.jar%23722!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:130) ~[server-1.20.1-20230612.114412-srg.jar%23722!/:?]
+	at net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:753) ~[server-1.20.1-20230612.114412-srg.jar%23722!/:?]
+	at net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:747) ~[server-1.20.1-20230612.114412-srg.jar%23722!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_18699_(BlockableEventLoop.java:115) ~[server-1.20.1-20230612.114412-srg.jar%23722!/:?]
+	at net.minecraft.server.MinecraftServer.m_130012_(MinecraftServer.java:732) ~[server-1.20.1-20230612.114412-srg.jar%23722!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:665) ~[server-1.20.1-20230612.114412-srg.jar%23722!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23722!/:?]
+	at java.lang.Thread.run(Thread.java:1474) ~[?:?]
+[08dic.2025 00:49:51.764] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gersbot moved wrongly!
+[08dic.2025 00:49:51.821] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gersbot moved wrongly!
+[08dic.2025 00:50:20.864] [Server thread/INFO] [Chunk Activity Tracker/]: Saving data for 111 chunks for dimension 'overworld' took 0 milliseconds
+[08dic.2025 00:50:23.867] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zaru2 has made the advancement [Chompy]
+[08dic.2025 00:50:26.068] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gersbot has made the advancement [Chompy]
+[08dic.2025 00:50:33.012] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gersbot moved wrongly!
+[08dic.2025 00:50:57.165] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: zaru2 moved wrongly!
+[08dic.2025 00:51:23.564] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: zaru2 moved wrongly!
+[08dic.2025 00:53:33.669] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gersbot fell from a high place
+[08dic.2025 00:54:21.868] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=167, y=68, z=121} BlockPos{x=167, y=68, z=122}
+[08dic.2025 00:54:42.919] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gersbot has made the advancement [Not Today, Thank You]
+[08dic.2025 00:55:04.774] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gersbot lost connection: Disconnected
+[08dic.2025 00:55:04.774] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gersbot left the game
+[08dic.2025 00:55:04.775] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for bed09744-7f1b-36e3-8d3a-6af288b06368
+[08dic.2025 00:55:11.173] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: zaru2 lost connection: Disconnected
+[08dic.2025 00:55:11.173] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zaru2 left the game
+[08dic.2025 00:55:11.173] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 0a746663-f786-35c9-a841-33081d3487ec
+[08dic.2025 00:55:20.851] [Server thread/INFO] [Chunk Activity Tracker/]: Saving data for 136 chunks for dimension 'overworld' took 1 milliseconds
+[08dic.2025 00:55:21.109] [Server thread/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: Listing events...
+[08dic.2025 00:55:21.110] [Server thread/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: Server Player Clone: 11
+[08dic.2025 00:55:21.110] [Server thread/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: Server Player Logout: 3
+[08dic.2025 00:55:21.110] [Server thread/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: Listing memory leaks so far...
+[08dic.2025 00:55:21.110] [Server thread/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: B: 2096MB / C: 2145MB / Diff: +49MB
+[08dic.2025 00:55:21.110] [Server thread/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: Memory Leaks detected: (/atl force_refresh to update)
+[08dic.2025 00:55:21.110] [Server thread/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: | ChunkAccess:
+[08dic.2025 00:55:21.110] [Server thread/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: |- LevelChunk (minecraft): 109
+[08dic.2025 00:55:21.110] [Server thread/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: | Player:
+[08dic.2025 00:55:21.110] [Server thread/INFO] [dev.uncandango.alltheleaks.AllTheLeaks/]: |- ServerPlayer (minecraft): 4

@@ -1,0 +1,17 @@
+{
+	id: "0a746663-f786-35c9-a841-33081d3487ec"
+	type: "player"
+	player_name: "zaru2"
+	ranks: {
+		0a746663-f786-35c9-a841-33081d3487ec: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "zaru2"
+		"ftbteams:description": ""
+		"ftbteams:color": "#CDFF59"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}
