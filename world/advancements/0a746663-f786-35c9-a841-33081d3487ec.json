@@ -67,7 +67,6 @@
   },
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
-      "woodland": "2025-12-08 21:50:46 -0500",
       "floodplain": "2025-12-08 00:24:36 -0500",
       "old_growth_woodland": "2025-12-07 23:41:29 -0500",
       "rainforest": "2025-12-07 23:52:28 -0500"
@@ -3002,8 +3001,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
-      "minecraft:beach": "2025-12-07 23:57:48 -0500",
-      "minecraft:river": "2025-12-08 21:50:34 -0500"
+      "minecraft:beach": "2025-12-07 23:57:48 -0500"
     },
     "done": false
   },
@@ -5192,78 +5190,6 @@
   "farmersdelight:recipes/food/melon_juice": {
     "criteria": {
       "has_melon_slice": "2025-12-08 00:54:17 -0500"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/pedestal": {
-    "criteria": {
-      "has_stone_bricks": "2025-12-08 21:56:18 -0500"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/stone_brick_wall": {
-    "criteria": {
-      "has_stone_bricks": "2025-12-08 21:56:18 -0500"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/chiseled_stone_bricks": {
-    "criteria": {
-      "has_tag": "2025-12-08 21:56:18 -0500"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/chiseled_stone_bricks_from_stone_bricks_stonecutting": {
-    "criteria": {
-      "has_stone_bricks": "2025-12-08 21:56:18 -0500"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_bricks_stonecutting": {
-    "criteria": {
-      "has_stone_bricks": "2025-12-08 21:56:18 -0500"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/stone_brick_stairs": {
-    "criteria": {
-      "has_stone_bricks": "2025-12-08 21:56:18 -0500"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/stone_brick_slab": {
-    "criteria": {
-      "has_stone_bricks": "2025-12-08 21:56:18 -0500"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/stone_tile": {
-    "criteria": {
-      "has_stone_bricks": "2025-12-08 21:56:18 -0500"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cracked_stone_bricks": {
-    "criteria": {
-      "has_stone_bricks": "2025-12-08 21:56:18 -0500"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_bricks_stonecutting": {
-    "criteria": {
-      "has_stone_bricks": "2025-12-08 21:56:18 -0500"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/stone_brick_wall_from_stone_bricks_stonecutting": {
-    "criteria": {
-      "has_stone_bricks": "2025-12-08 21:56:18 -0500"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/stonecutting/stone_tile": {
-    "criteria": {
-      "has_stone_bricks": "2025-12-08 21:56:18 -0500"
     },
     "done": true
   },
