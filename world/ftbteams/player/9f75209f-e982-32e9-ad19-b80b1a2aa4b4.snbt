@@ -1,0 +1,17 @@
+{
+	id: "9f75209f-e982-32e9-ad19-b80b1a2aa4b4"
+	type: "player"
+	player_name: "Essido"
+	ranks: {
+		9f75209f-e982-32e9-ad19-b80b1a2aa4b4: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "Essido"
+		"ftbteams:description": ""
+		"ftbteams:color": "#FFC559"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}
