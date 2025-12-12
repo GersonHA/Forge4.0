@@ -18,7 +18,7 @@ features:
   item-merge-radius: 0.5
   lobotomize-villagers:
     # Makes villagers tick less often if they are stuck in a 1x1 space.
-    enabled: false
+    enabled: true
     # Decides the interval in between villager ticks when lobotomized.
     tick-interval: 20
 
@@ -26,7 +26,7 @@ features:
 # Automatically modifies dynamic settings based on the server performance.
 dynamic:
   # Enables dynamic performance checks.
-  enabled: false
+  enabled: true
   # The average MSPT to target.
   target-mspt: 35
   # The settings that will be decreased when the server is overloaded, in the specified order.
@@ -110,8 +110,8 @@ mob-spawning:
       spawn-interval: 1
 
     - category: 'CREATURE'
-      mobcap: 10
-      spawn-interval: 400
+      mobcap: 25
+      spawn-interval: 300
 
     - category: 'AMBIENT'
       mobcap: 15
@@ -156,7 +156,7 @@ commands:
 # Note: while this is a very powerful feature, it can still slow down mobfarms and break very specific technical contraptions.
 activation-range:
   # Enables activation range.
-  enabled: false
+  enabled: true
   # Briefly ticks entities newly added to the world for 10 seconds (includes both spawning and loading).
   # This gives them a chance to properly immunize when they are spawned if they should be. Can be helpful for mobfarms.
   tick-new-entities: true
