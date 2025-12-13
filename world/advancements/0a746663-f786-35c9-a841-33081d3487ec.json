@@ -2760,6 +2760,7 @@
     "criteria": {
       "minecraft:skeleton": "2025-12-12 12:04:09 -0500",
       "minecraft:creeper": "2025-12-12 12:04:34 -0500",
+      "minecraft:zombified_piglin": "2025-12-12 19:52:15 -0500",
       "minecraft:zombie": "2025-12-12 11:37:09 -0500",
       "minecraft:drowned": "2025-12-12 11:49:34 -0500"
     },
@@ -5016,8 +5017,11 @@
   },
   "farmersdelight:main/plant_all_crops": {
     "criteria": {
+      "onion": "2025-12-12 20:11:53 -0500",
+      "tomato": "2025-12-12 20:12:34 -0500",
       "brown_mushroom": "2025-12-12 12:23:40 -0500",
       "potato": "2025-12-12 14:26:57 -0500",
+      "wheat": "2025-12-12 18:16:50 -0500",
       "carrot": "2025-12-12 14:27:31 -0500"
     },
     "done": false
@@ -6753,6 +6757,1020 @@
   "twigs:recipes/silt/silt_from_sand": {
     "criteria": {
       "has_item": "2025-12-12 15:21:03 -0500"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/creeper_trophy": {
+    "criteria": {
+      "has_creeper_trophy": "2025-12-12 19:08:34 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_stairs_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-12-12 19:08:34 -0500"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/af/biomesoplenty/mahogany_drawer": {
+    "criteria": {
+      "has_item": "2025-12-12 18:23:58 -0500"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/decorations/biomesoplenty/sign_post_mahogany": {
+    "criteria": {
+      "has_item": "2025-12-12 18:23:58 -0500"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/wrench": {
+    "criteria": {
+      "has_copper_ingot": "2025-12-12 18:34:39 -0500"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/stone_tile_slab_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-12-12 19:08:34 -0500"
+    },
+    "done": true
+  },
+  "hearth_and_home:recipes/thatch": {
+    "criteria": {
+      "has_item": "2025-12-12 18:16:10 -0500"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/q/biomesoplenty/stripped_mahogany_post": {
+    "criteria": {
+      "has_item": "2025-12-12 18:23:58 -0500"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/skeleton_trophy": {
+    "criteria": {
+      "has_skeleton_trophy": "2025-12-12 19:08:34 -0500"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/hc/biomesoplenty/mahogany_bench": {
+    "criteria": {
+      "has_item": "2025-12-12 18:23:58 -0500"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/wheat_dough_from_egg": {
+    "criteria": {
+      "has_wheat": "2025-12-12 18:16:10 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_stairs": {
+    "criteria": {
+      "has_stone": "2025-12-12 19:08:34 -0500"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/hnhome/biomesoplenty/mahogany_lattice": {
+    "criteria": {
+      "has_item": "2025-12-12 18:23:58 -0500"
+    },
+    "done": true
+  },
+  "betternether:recipes/transportation/nether_mushroom_chest_boat": {
+    "criteria": {
+      "has_tag_c_chest": "2025-12-12 18:24:17 -0500"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/stone_paver_wall_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-12-12 19:08:34 -0500"
+    },
+    "done": true
+  },
+  "everycomp:recipes/building_blocks/db/biomesoplenty/mahogany_palisade": {
+    "criteria": {
+      "has_item": "2025-12-12 18:23:58 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stonecutter": {
+    "criteria": {
+      "has_stone": "2025-12-12 19:08:34 -0500"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/barbecue_stick": {
+    "criteria": {
+      "has_onion": "2025-12-12 18:41:04 -0500"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/stone_pillar_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-12-12 19:08:34 -0500"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/decorations/mahogany_sign": {
+    "criteria": {
+      "has_planks": "2025-12-12 18:23:58 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone_slab": {
+    "criteria": {
+      "has_smooth_stone": "2025-12-12 19:09:06 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/paper": {
+    "criteria": {
+      "has_reeds": "2025-12-12 20:23:24 -0500"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/hc/biomesoplenty/mahogany_drawer": {
+    "criteria": {
+      "has_item": "2025-12-12 18:23:58 -0500"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/hc/biomesoplenty/mahogany_corner_trim": {
+    "criteria": {
+      "has_item": "2025-12-12 18:23:58 -0500"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/hc/biomesoplenty/mahogany_side_table": {
+    "criteria": {
+      "has_item": "2025-12-12 18:23:58 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-12-12 19:08:34 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/lime_dye_from_smelting": {
+    "criteria": {
+      "has_sea_pickle": "2025-12-12 18:34:59 -0500"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/hnhome/biomesoplenty/mahogany_sanded_wood": {
+    "criteria": {
+      "has_item": "2025-12-12 18:23:58 -0500"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/q/biomesoplenty/vertical_mahogany_planks": {
+    "criteria": {
+      "has_item": "2025-12-12 18:23:58 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_slab_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-12-12 19:08:34 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sugar_from_sugar_cane": {
+    "criteria": {
+      "has_sugar_cane": "2025-12-12 20:23:24 -0500"
+    },
+    "done": true
+  },
+  "everycomp:recipes/building_blocks/db/biomesoplenty/mahogany_support": {
+    "criteria": {
+      "has_item": "2025-12-12 18:23:58 -0500"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/abnbl/biomesoplenty/large_mahogany_boat": {
+    "criteria": {
+      "has_item": "2025-12-12 18:23:58 -0500"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/stone_plate_slab_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-12-12 19:08:34 -0500"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/tomato_sauce": {
+    "criteria": {
+      "has_tomato": "2025-12-12 19:53:44 -0500"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/mahogany_stairs": {
+    "criteria": {
+      "has_planks": "2025-12-12 18:23:58 -0500"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/stone_plate_stairs_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-12-12 19:08:34 -0500"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/tf/biomesoplenty/mahogany_banister": {
+    "criteria": {
+      "has_item": "2025-12-12 18:23:58 -0500"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/tomato": {
+    "criteria": {
+      "has_tomato_crate": "2025-12-12 20:13:18 -0500"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/stone_plate_wall_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-12-12 19:08:34 -0500"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/q/biomesoplenty/mahogany_post": {
+    "criteria": {
+      "has_item": "2025-12-12 18:23:58 -0500"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/daub": {
+    "criteria": {
+      "supplementaries:straw": "2025-12-12 18:16:10 -0500"
+    },
+    "done": true
+  },
+  "betternether:recipes/transportation/willow_chest_boat": {
+    "criteria": {
+      "has_tag_c_chest": "2025-12-12 18:24:17 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blast_furnace": {
+    "criteria": {
+      "has_smooth_stone": "2025-12-12 19:09:06 -0500"
+    },
+    "done": true
+  },
+  "betternether:recipes/transportation/crimson_chest_boat": {
+    "criteria": {
+      "has_tag_c_chest": "2025-12-12 18:24:17 -0500"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/af/biomesoplenty/mahogany_shelf": {
+    "criteria": {
+      "has_item": "2025-12-12 18:23:58 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_slab": {
+    "criteria": {
+      "has_stone": "2025-12-12 19:08:34 -0500"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/hc/biomesoplenty/mahogany_counter": {
+    "criteria": {
+      "has_item": "2025-12-12 18:23:58 -0500"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/stone_tile_stairs_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-12-12 19:08:34 -0500"
+    },
+    "done": true
+  },
+  "crabbersdelight:recipes/food/sea_pickle_juice": {
+    "criteria": {
+      "has_sea_pickle": "2025-12-12 18:34:59 -0500"
+    },
+    "done": true
+  },
+  "incubation:recipes/decorations/hay_nest": {
+    "criteria": {
+      "has_wheat": "2025-12-12 18:16:10 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lightning_rod": {
+    "criteria": {
+      "has_copper_ingot": "2025-12-12 18:34:39 -0500"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/cog_block": {
+    "criteria": {
+      "has_copper_ingot": "2025-12-12 18:34:39 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/stone_button": {
+    "criteria": {
+      "has_stone": "2025-12-12 19:08:34 -0500"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/stone_paver_stairs_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-12-12 19:08:34 -0500"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/hc/biomesoplenty/mahogany_table": {
+    "criteria": {
+      "has_item": "2025-12-12 18:23:58 -0500"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/mahogany_slab": {
+    "criteria": {
+      "has_planks": "2025-12-12 18:23:58 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cookie": {
+    "criteria": {
+      "has_cocoa": "2025-12-12 18:41:20 -0500"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/hnhome/biomesoplenty/mahogany_vertical_trim": {
+    "criteria": {
+      "has_item": "2025-12-12 18:23:58 -0500"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/decorations/mahogany_fence": {
+    "criteria": {
+      "has_planks": "2025-12-12 18:23:58 -0500"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/abnbl/biomesoplenty/mahogany_furnace_boat": {
+    "criteria": {
+      "has_item": "2025-12-12 18:23:58 -0500"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/building_blocks/tomato_crate": {
+    "criteria": {
+      "has_tomato": "2025-12-12 19:53:44 -0500"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/dumplings": {
+    "criteria": {
+      "has_any_ingredient": "2025-12-12 18:41:04 -0500"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/bred_all_animals": {
+    "criteria": {
+      "minecraft:cow": "2025-12-12 18:16:20 -0500"
+    },
+    "done": false
+  },
+  "everycomp:recipes/decorations/af/biomesoplenty/mahogany_chair": {
+    "criteria": {
+      "has_item": "2025-12-12 18:23:58 -0500"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/mahogany_button": {
+    "criteria": {
+      "has_planks": "2025-12-12 18:23:58 -0500"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/pillager_trophy": {
+    "criteria": {
+      "has_pillager_trophy": "2025-12-12 19:08:34 -0500"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/af/biomesoplenty/mahogany_flower_box": {
+    "criteria": {
+      "has_item": "2025-12-12 18:23:58 -0500"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/stone_lamp": {
+    "criteria": {
+      "has_stone": "2025-12-12 19:08:34 -0500"
+    },
+    "done": true
+  },
+  "everycomp:recipes/building_blocks/db/biomesoplenty/mahogany_beam": {
+    "criteria": {
+      "has_item": "2025-12-12 18:23:58 -0500"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/bp/biomesoplenty/mahogany_backpack_shelf": {
+    "criteria": {
+      "has_item": "2025-12-12 18:23:58 -0500"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/stone_plates_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-12-12 19:08:34 -0500"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/stone_shingle_slab_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-12-12 19:08:34 -0500"
+    },
+    "done": true
+  },
+  "betternether:recipes/transportation/nether_reed_chest_boat": {
+    "criteria": {
+      "has_tag_c_chest": "2025-12-12 18:24:17 -0500"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/tf/biomesoplenty/hollow_mahogany_log": {
+    "criteria": {
+      "has_item": "2025-12-12 18:23:58 -0500"
+    },
+    "done": true
+  },
+  "betternether:recipes/transportation/nether_sakura_chest_boat": {
+    "criteria": {
+      "has_tag_c_chest": "2025-12-12 18:24:17 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone_slab_from_smooth_stone_stonecutting": {
+    "criteria": {
+      "has_smooth_stone": "2025-12-12 19:09:06 -0500"
+    },
+    "done": true
+  },
+  "betternether:recipes/transportation/anchor_tree_chest_boat": {
+    "criteria": {
+      "has_tag_c_chest": "2025-12-12 18:24:17 -0500"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/q/biomesoplenty/mahogany_trapped_chest": {
+    "criteria": {
+      "has_item": "2025-12-12 18:23:58 -0500"
+    },
+    "done": true
+  },
+  "twigs:recipes/smooth_stone_bricks/smooth_stone_bricks_from_smooth_stone_stonecutting": {
+    "criteria": {
+      "has_smooth_stone": "2025-12-12 19:09:06 -0500"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/cracked_stone_tiles_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-12-12 19:08:34 -0500"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/hc/biomesoplenty/mahogany_fancy_bed": {
+    "criteria": {
+      "has_item": "2025-12-12 18:23:58 -0500"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/af/biomesoplenty/mahogany_shutter": {
+    "criteria": {
+      "has_item": "2025-12-12 18:23:58 -0500"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/stone_tiles_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-12-12 19:08:34 -0500"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/stone_pillar_trim": {
+    "criteria": {
+      "has_stone_pillar_trim": "2025-12-12 19:08:34 -0500"
+    },
+    "done": true
+  },
+  "betternether:recipes/transportation/warped_chest_boat": {
+    "criteria": {
+      "has_tag_c_chest": "2025-12-12 18:24:17 -0500"
+    },
+    "done": true
+  },
+  "betternether:recipes/transportation/mushroom_fir_chest_boat": {
+    "criteria": {
+      "has_tag_c_chest": "2025-12-12 18:24:17 -0500"
+    },
+    "done": true
+  },
+  "bclib:recipes/decorations/tag_shulker_box": {
+    "criteria": {
+      "has_tag_c_chest": "2025-12-12 18:24:17 -0500"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/af/biomesoplenty/mahogany_table": {
+    "criteria": {
+      "has_item": "2025-12-12 18:23:58 -0500"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/hc/biomesoplenty/mahogany_chair": {
+    "criteria": {
+      "has_item": "2025-12-12 18:23:58 -0500"
+    },
+    "done": true
+  },
+  "twigs:recipes/smooth_stone_bricks/smooth_stone_bricks": {
+    "criteria": {
+      "has_smooth_stone": "2025-12-12 19:09:06 -0500"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/fd/biomesoplenty/mahogany_cabinet": {
+    "criteria": {
+      "has_item": "2025-12-12 18:23:58 -0500"
+    },
+    "done": true
+  },
+  "suppsquared:recipes/decorations/biomesoplenty/item_shelf_mahogany": {
+    "criteria": {
+      "has_item": "2025-12-12 18:23:58 -0500"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/hc/biomesoplenty/mahogany_desk": {
+    "criteria": {
+      "has_item": "2025-12-12 18:23:58 -0500"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/mahogany_wood": {
+    "criteria": {
+      "has_log": "2025-12-12 18:22:37 -0500"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/stone_shingle_wall_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-12-12 19:08:34 -0500"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/mahogany_planks": {
+    "criteria": {
+      "has_logs": "2025-12-12 18:22:37 -0500"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/breed_an_animal": {
+    "criteria": {
+      "bred": "2025-12-12 18:16:20 -0500"
+    },
+    "done": true
+  },
+  "twigs:recipes/smooth_stone_bricks/smooth_stone_brick_stairs_from_smooth_stone_stonecutting": {
+    "criteria": {
+      "has_smooth_stone": "2025-12-12 19:09:06 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/brush": {
+    "criteria": {
+      "has_copper_ingot": "2025-12-12 18:34:39 -0500"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/hc/biomesoplenty/mahogany_pillar_trim": {
+    "criteria": {
+      "has_item": "2025-12-12 18:23:58 -0500"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/vindicator_trophy": {
+    "criteria": {
+      "has_vindicator_trophy": "2025-12-12 19:08:34 -0500"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/hc/biomesoplenty/mahogany_couch": {
+    "criteria": {
+      "has_item": "2025-12-12 18:23:58 -0500"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/hnhome/biomesoplenty/mahogany_parquet": {
+    "criteria": {
+      "has_item": "2025-12-12 18:23:58 -0500"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/pie_crust": {
+    "criteria": {
+      "has_wheat": "2025-12-12 18:16:10 -0500"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/fancy_painting": {
+    "criteria": {
+      "has_fancy_painting": "2025-12-12 18:34:59 -0500"
+    },
+    "done": true
+  },
+  "twigs:recipes/columns/stone_column": {
+    "criteria": {
+      "has_item": "2025-12-12 19:08:34 -0500"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/mahogany_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-12-12 18:23:58 -0500"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/golden_chestplate_repairing": {
+    "criteria": {
+      "has_golden_chestplate": "2025-12-12 18:38:59 -0500"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/hc/biomesoplenty/mahogany_nightstand": {
+    "criteria": {
+      "has_item": "2025-12-12 18:23:58 -0500"
+    },
+    "done": true
+  },
+  "twigs:recipes/columns/stone_column_stonecutting": {
+    "criteria": {
+      "has_item": "2025-12-12 19:08:34 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stone_brick_walls_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-12-12 19:08:34 -0500"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/q/biomesoplenty/hollow_mahogany_log": {
+    "criteria": {
+      "has_item": "2025-12-12 18:23:58 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-12-12 19:08:34 -0500"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/hc/biomesoplenty/mahogany_shelf": {
+    "criteria": {
+      "has_item": "2025-12-12 18:23:58 -0500"
+    },
+    "done": true
+  },
+  "twigs:recipes/smooth_stone_bricks/smooth_stone_brick_slab_from_smooth_stone_stonecutting": {
+    "criteria": {
+      "has_smooth_stone": "2025-12-12 19:09:06 -0500"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/slice_map": {
+    "criteria": {
+      "has_map": "2025-12-12 18:34:38 -0500"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/q/biomesoplenty/mahogany_chest": {
+    "criteria": {
+      "has_item": "2025-12-12 18:23:58 -0500"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/ratatouille": {
+    "criteria": {
+      "has_any_ingredient": "2025-12-12 18:41:04 -0500"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/building_blocks/stone_pillar": {
+    "criteria": {
+      "has_stone": "2025-12-12 19:08:34 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sea_lantern": {
+    "criteria": {
+      "has_prismarine_crystals": "2025-12-12 18:35:00 -0500"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/faf/biomesoplenty/mahogany_beehive": {
+    "criteria": {
+      "has_item": "2025-12-12 18:23:58 -0500"
+    },
+    "done": true
+  },
+  "betternether:recipes/transportation/rubeus_chest_boat": {
+    "criteria": {
+      "has_tag_c_chest": "2025-12-12 18:24:17 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_bricks": {
+    "criteria": {
+      "has_stone": "2025-12-12 19:08:34 -0500"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/stone_pavers_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-12-12 19:08:34 -0500"
+    },
+    "done": true
+  },
+  "betternether:recipes/transportation/stalagnate_chest_boat": {
+    "criteria": {
+      "has_tag_c_chest": "2025-12-12 18:24:17 -0500"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/charcoal_block": {
+    "criteria": {
+      "has_charcoal": "2025-12-12 18:27:51 -0500"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/q/biomesoplenty/mahogany_bookshelf": {
+    "criteria": {
+      "has_item": "2025-12-12 18:23:58 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/brown_dye": {
+    "criteria": {
+      "has_cocoa_beans": "2025-12-12 18:41:20 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_bricks_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-12-12 19:08:34 -0500"
+    },
+    "done": true
+  },
+  "farmersdelight:main/get_fd_seed": {
+    "criteria": {
+      "onion": "2025-12-12 18:41:04 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/stone_pressure_plate": {
+    "criteria": {
+      "has_stone": "2025-12-12 19:08:34 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/bread": {
+    "criteria": {
+      "has_wheat": "2025-12-12 18:16:10 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/hay_block": {
+    "criteria": {
+      "has_wheat": "2025-12-12 18:16:10 -0500"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/squid_ink_pasta": {
+    "criteria": {
+      "has_any_ingredient": "2025-12-12 19:53:44 -0500"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/vp/biomesoplenty/mahogany_horticulturist_table": {
+    "criteria": {
+      "has_item": "2025-12-12 18:23:58 -0500"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/fodder": {
+    "criteria": {
+      "has_hay_block": "2025-12-12 18:16:08 -0500"
+    },
+    "done": true
+  },
+  "crabbersdelight:recipes/building_blocks/sea_pickle_crate": {
+    "criteria": {
+      "has_sea_pickle": "2025-12-12 18:34:59 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/copper_block": {
+    "criteria": {
+      "has_copper_ingot": "2025-12-12 18:34:39 -0500"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/mahogany_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-12-12 18:23:58 -0500"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/tw/biomesoplenty/mahogany_table": {
+    "criteria": {
+      "has_item": "2025-12-12 18:23:58 -0500"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/stone_tile_wall_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-12-12 19:08:34 -0500"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/stone_paver_slab_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-12-12 19:08:34 -0500"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/evoker_trophy": {
+    "criteria": {
+      "has_evoker_trophy": "2025-12-12 19:08:34 -0500"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/hc/biomesoplenty/mahogany_cupboard": {
+    "criteria": {
+      "has_item": "2025-12-12 18:23:58 -0500"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/mahogany_door": {
+    "criteria": {
+      "has_planks": "2025-12-12 18:23:58 -0500"
+    },
+    "done": true
+  },
+  "betternether:recipes/transportation/wart_chest_boat": {
+    "criteria": {
+      "has_tag_c_chest": "2025-12-12 18:24:17 -0500"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/stone_corner_trim": {
+    "criteria": {
+      "has_stone_corner_trim": "2025-12-12 19:08:34 -0500"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/fish_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-12-12 18:41:04 -0500"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/hc/biomesoplenty/mahogany_dining_bench": {
+    "criteria": {
+      "has_item": "2025-12-12 18:23:58 -0500"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/hnhome/biomesoplenty/mahogany_trim": {
+    "criteria": {
+      "has_item": "2025-12-12 18:23:58 -0500"
+    },
+    "done": true
+  },
+  "netherexp:recipes/misc/rift_armor_trim_smithing_template": {
+    "criteria": {
+      "has_coast_armor_trim_smithing_template": "2025-12-12 18:39:00 -0500"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/jar_of_pickles": {
+    "criteria": {
+      "has_any_ingredient": "2025-12-12 18:34:59 -0500"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/stone_shingles_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-12-12 19:08:34 -0500"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/q/biomesoplenty/mahogany_ladder": {
+    "criteria": {
+      "has_item": "2025-12-12 18:23:58 -0500"
+    },
+    "done": true
+  },
+  "hearth_and_home:recipes/stone_column": {
+    "criteria": {
+      "has_item": "2025-12-12 19:09:06 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone": {
+    "criteria": {
+      "has_stone": "2025-12-12 19:08:34 -0500"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/af/biomesoplenty/mahogany_bench": {
+    "criteria": {
+      "has_item": "2025-12-12 18:23:58 -0500"
+    },
+    "done": true
+  },
+  "everycomp:recipes/building_blocks/db/biomesoplenty/mahogany_seat": {
+    "criteria": {
+      "has_item": "2025-12-12 18:23:58 -0500"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/stone_shingle_stairs_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-12-12 19:08:34 -0500"
+    },
+    "done": true
+  },
+  "friendsandfoes:recipes/redstone/copper_button": {
+    "criteria": {
+      "has_copper_ingot": "2025-12-12 18:34:39 -0500"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/witch_trophy": {
+    "criteria": {
+      "has_witch_trophy": "2025-12-12 19:08:34 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks_stone_from_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-12-12 19:08:34 -0500"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/mahogany_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-12-12 18:23:58 -0500"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/misc/tomato_seeds": {
+    "criteria": {
+      "has_tomato": "2025-12-12 19:53:44 -0500"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "wheat": "2025-12-12 18:16:50 -0500"
+    },
+    "done": true
+  },
+  "twigs:recipes/smooth_stone_bricks/smooth_stone_brick_wall_from_smooth_stone_stonecutting": {
+    "criteria": {
+      "has_smooth_stone": "2025-12-12 19:09:06 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/wheat": {
+    "criteria": {
+      "has_hay_block": "2025-12-12 18:16:08 -0500"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/building_blocks/onion_crate": {
+    "criteria": {
+      "has_onion": "2025-12-12 18:41:04 -0500"
     },
     "done": true
   },
